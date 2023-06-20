@@ -6,7 +6,7 @@
 // @include  https://crowncourtdcs.caselines.co.uk/Case/Review*
 // ==/UserScript==
 document.onkeyup = function(e) {
-// Update Bundle: Ctrl-Alt-C
+// Update Bundle: Ctrl-Alt-B
     if (e.ctrlKey && e.altKey && e.which == 66) {
     unsafeWindow.updateBundle();
 // Go to PTPH Form: Ctrl-Alt-P
