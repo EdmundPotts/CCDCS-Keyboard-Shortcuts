@@ -2,7 +2,7 @@
 // @name     CCDCS Keyboard Shortcuts - Chrome Version
 // @version  1
 // @grant    none
-// @description This is a simple script to add keyboard shortcuts to some common functions on the Crown Court Digital Case System.
+// @description This is a simple script (for Google Chrome) to add keyboard shortcuts to some common functions on the Crown Court Digital Case System.
 // @include  https://crowncourtdcs.caselines.co.uk/Case/Review*
 // ==/UserScript==
 document.onkeyup = function(e) {
